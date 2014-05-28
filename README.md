@@ -56,6 +56,7 @@ $ bundle install
 Теперь можно склонировать приложение [https://github.com/delfit/sihamsa.git](https://github.com/delfit/sihamsa.git) (смотри помощь [здесь](https://help.github.com/articles/adding-repositories-with-github-for-windows)) и в папке приложения в командной строке выполнить : 
 
 ```shell
+> gem install bundler
 > bundle install
 ```
 
